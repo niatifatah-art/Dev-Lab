@@ -1,0 +1,3 @@
+[2026-01-10 20:48:35] Generating world...
+[2026-01-10 20:48:35] Generated 8 rooms.
+[2026-01-10 20:48:35] Equipped Rusty Sword on Weapon.

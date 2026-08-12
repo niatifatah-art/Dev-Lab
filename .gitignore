@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+**/arcadia_save.json
+**/arcadia_log.txt
